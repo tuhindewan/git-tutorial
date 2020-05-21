@@ -9,13 +9,12 @@ public class Hello {
         System.out.println("Wlcome" + name); 
     }
 
-<<<<<<< HEAD
     public static int addition(int x) {
         return x+x;
-=======
+    }
+    
     public static int sqr(int y) {
         return y*y;
->>>>>>> square
     }
 
 }
