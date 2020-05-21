@@ -9,8 +9,8 @@ public class Hello {
         System.out.println("Wlcome" + name); 
     }
 
-    public static int sqr(int x) {
-        return x*x;
+    public static int sqr(int y) {
+        return y*y;
     }
 
 }
