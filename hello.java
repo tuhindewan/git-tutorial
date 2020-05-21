@@ -9,4 +9,8 @@ public class Hello {
         System.out.println("Wlcome" + name); 
     }
 
+    public static int addition(int x) {
+        return x+x;
+    }
+
 }
