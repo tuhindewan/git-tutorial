@@ -5,3 +5,4 @@ if hungry == 'yes':
     print ("Eat also Snaks")
 else:
     print ("Then start learning Git")
+    print ("Also learned Docker")
